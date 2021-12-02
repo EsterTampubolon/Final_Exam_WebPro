@@ -1,0 +1,17 @@
+body {
+    margin: 1% 0 0 8%;
+    padding-top: 80px;
+    display: flex;
+    justify-content: absolute;
+    height: 100vh;
+    background: linear-gradient(45deg, rgb(5, 27, 61) 0%, rgba(221, 167, 29, 0.952) 100%);
+    font-family: "Poppins", Times New Roman;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: yellow;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
